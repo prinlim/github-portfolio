@@ -119,6 +119,7 @@ p{
 	background-color:white;
 	border-radius:10px;
 	margin:0px 150px;
+	font-family: "Inconsolata", monospace;
 }
 figcaption a{
 	text-decoration: none;
@@ -160,4 +161,5 @@ color:#8661d1;
 padding:5px;
 margin:0px 600px;
 background-image:url('https://t3.ftcdn.net/jpg/05/12/41/30/360_F_512413029_f3oHvyz8EOOVNBOtyUyFr1Jaw88CSvHq.jpg');
+	
 }
