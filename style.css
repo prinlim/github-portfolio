@@ -21,10 +21,12 @@ body{
 	margin-right:200px;
 	margin-top:20px;
 	border-radius:10px;
+
 }
 .topnav li{
 	padding: 0px 30px; 
 	border-radius:10px;
+	
 }
 }
 
@@ -42,6 +44,7 @@ ul {
 	overflow: hidden;
 	background-color: #7e49f8;
 	border-radius:10px;
+	
 }
 
 li {
@@ -55,6 +58,7 @@ li a, .dropbtn {
 	text-align: center;
 	padding: 14px 16px;
 	text-decoration: none;
+	border-radius:10px;
 }
 
 li a:hover, .dropdown:hover .dropbtn {
